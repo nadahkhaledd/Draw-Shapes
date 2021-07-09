@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1623198338 source:d:\desktop\graphics\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<iostream>
+	<sstream>
+
+1623259721 source:d:\desktop\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<iostream>
+	<sstream>
+
+1623259722 source:c:\users\nada\downloads\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<iostream>
+	<sstream>
+
